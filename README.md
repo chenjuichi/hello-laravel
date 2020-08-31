@@ -1,2 +1,2 @@
 # hello-laravel
-my laravel application
+my first repository on github for laravel application
